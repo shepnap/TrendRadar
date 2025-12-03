@@ -3,6 +3,10 @@ Apple
 !水果
 !价格
 
+Rust
+Cpp
+Go
+Java
 
 DeepSeek
 梁文锋
